@@ -1,6 +1,6 @@
 "use client";
 import React, { useEffect, useState } from "react";
-import { Card } from "@/components/card";
+import { Card } from "@/components/Card";
 import { getData } from "../../../utils/functions"; // adjust the import path if necessary
 import { Left } from "@/components/Left";
 import { Right } from "@/components/Right";
